@@ -29,7 +29,7 @@
 
 | Main Menu | Aspect Selection | Generation Result | User Profile |
 |:---:|:---:|:---:|:---:|
-| ![Main Menu](assets/main_menu.png) | ![Aspect Selection](assets/aspect_selection.png) | ![Generation Result](assets/generation_result.png) | ![User Profile](assets/user_profile.png) |
+| <img src="assets/main_menu.png" width="200" /> | <img src="assets/aspect_selection.png" width="200" /> | <img src="assets/generation_result.png" width="200" /> | <img src="assets/user_profile.png" width="200" /> |
 
 ---
 
