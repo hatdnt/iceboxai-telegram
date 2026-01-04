@@ -9,6 +9,8 @@
 
 🚀 **Deploy your own AI art community today!**
 
+[**🤖 Try the Bot Now: @iceboxai_bot**](https://t.me/iceboxai_bot)
+
 ---
 
 ## ✨ Key Features
@@ -27,7 +29,7 @@
 
 | Main Menu | Aspect Selection | Generation Result | User Profile |
 |:---:|:---:|:---:|:---:|
-| *(Place screenshot here)* | *(Place screenshot here)* | *(Place screenshot here)* | *(Place screenshot here)* |
+| ![Main Menu](assets/main_menu.png) | ![Aspect Selection](assets/aspect_selection.png) | ![Generation Result](assets/generation_result.png) | ![User Profile](assets/user_profile.png) |
 
 ---
 
@@ -53,8 +55,8 @@
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/Start-Icebox/icebox-ai-bot.git
-    cd icebox-ai-bot
+    git clone https://github.com/hatdnt/iceboxai-telegram.git
+    cd iceboxai-telegram
     ```
 
 2.  **Install Dependencies**
